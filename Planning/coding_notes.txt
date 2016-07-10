@@ -1,0 +1,5 @@
+# Coding Notes
+
+Consider using a node.js background and javascript for the main program? GoogleV8 runs nearly as fast as native C++
+
+If not, C++ using the gpio library?
